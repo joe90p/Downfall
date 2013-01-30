@@ -1,0 +1,17 @@
+Standard button creation.
+
+1. Open Paint.NET
+2. Go to top menu Effects->Render->Buttons. (plug in for paint.net http://paint.net.amihotornot.com.au/Features/Effects/Plugins/Render/Buttons/)
+3. In the forms that pops up enter the following values. Not all colours in (R,G,B)
+
+Font:Jokeman size:32
+X: 150, Y: 75
+Text Colour: (255,255,255)
+Surround(130,130,130)
+
+If a button_normal 
+Background: (31,51,155)
+If a button_hover
+Background: (97,114,198)
+
+4. Once saved. Open the image in paint and fill the color of the border with some other color. Paint all the surrounding bits in (255, 0, 255) or whatever tranparent colour you have specified in Dark GDK. Color the border back to the original colour. Move as close to the top left as possible.

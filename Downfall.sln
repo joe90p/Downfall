@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Downfall", "Downfall\Downfall.vcproj", "{83B085BE-3F5E-42AF-8A97-90D454B803D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83B085BE-3F5E-42AF-8A97-90D454B803D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83B085BE-3F5E-42AF-8A97-90D454B803D9}.Debug|Win32.Build.0 = Debug|Win32
+		{83B085BE-3F5E-42AF-8A97-90D454B803D9}.Release|Win32.ActiveCfg = Debug|Win32
+		{83B085BE-3F5E-42AF-8A97-90D454B803D9}.Release|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
